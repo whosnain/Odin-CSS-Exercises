@@ -27,3 +27,17 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+.b{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.b.b1{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.b.b2{
+    background-color: rgba(255, 255, 19, 0.925);
+}
